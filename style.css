@@ -388,19 +388,19 @@ header.sticky .nav-bar{
     border-radius: 2px;
     width: 95%;
 }
-.bar .html:before{
+.bar .sp:before{
     width: 95%;
 }
-.bar .css:before{
+.bar .api:before{
     width: 85%;
 }
 .bar .java:before{
-    width: 80%;
+    width: 87%;
 }
 .bar .mysql:before{
-    width: 85%;
+    width: 80%;
 }
-.bar .php:before{
+.bar .js:before{
     width: 75%;
 }
 .edu-list .item:hover, .bar:hover{
